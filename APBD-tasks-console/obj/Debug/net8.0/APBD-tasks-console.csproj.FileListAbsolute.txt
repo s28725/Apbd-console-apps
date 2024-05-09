@@ -1,0 +1,14 @@
+C:\Users\Sviatoslav\RiderProjects\APBD-tasks-console\APBD-tasks-console\bin\Debug\net8.0\APBD-tasks-console.exe
+C:\Users\Sviatoslav\RiderProjects\APBD-tasks-console\APBD-tasks-console\bin\Debug\net8.0\APBD-tasks-console.deps.json
+C:\Users\Sviatoslav\RiderProjects\APBD-tasks-console\APBD-tasks-console\bin\Debug\net8.0\APBD-tasks-console.runtimeconfig.json
+C:\Users\Sviatoslav\RiderProjects\APBD-tasks-console\APBD-tasks-console\bin\Debug\net8.0\APBD-tasks-console.dll
+C:\Users\Sviatoslav\RiderProjects\APBD-tasks-console\APBD-tasks-console\bin\Debug\net8.0\APBD-tasks-console.pdb
+C:\Users\Sviatoslav\RiderProjects\APBD-tasks-console\APBD-tasks-console\obj\Debug\net8.0\APBD-tasks-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sviatoslav\RiderProjects\APBD-tasks-console\APBD-tasks-console\obj\Debug\net8.0\APBD-tasks-console.AssemblyInfoInputs.cache
+C:\Users\Sviatoslav\RiderProjects\APBD-tasks-console\APBD-tasks-console\obj\Debug\net8.0\APBD-tasks-console.AssemblyInfo.cs
+C:\Users\Sviatoslav\RiderProjects\APBD-tasks-console\APBD-tasks-console\obj\Debug\net8.0\APBD-tasks-console.csproj.CoreCompileInputs.cache
+C:\Users\Sviatoslav\RiderProjects\APBD-tasks-console\APBD-tasks-console\obj\Debug\net8.0\APBD-tasks-console.dll
+C:\Users\Sviatoslav\RiderProjects\APBD-tasks-console\APBD-tasks-console\obj\Debug\net8.0\refint\APBD-tasks-console.dll
+C:\Users\Sviatoslav\RiderProjects\APBD-tasks-console\APBD-tasks-console\obj\Debug\net8.0\APBD-tasks-console.pdb
+C:\Users\Sviatoslav\RiderProjects\APBD-tasks-console\APBD-tasks-console\obj\Debug\net8.0\APBD-tasks-console.genruntimeconfig.cache
+C:\Users\Sviatoslav\RiderProjects\APBD-tasks-console\APBD-tasks-console\obj\Debug\net8.0\ref\APBD-tasks-console.dll
